@@ -10,6 +10,7 @@ module.exports = {
     "./components/LargeCard.js",
     "./components/Footer.js",
     "./components/InfoCard.js",
+    "./components/Map.js",
   ],
   theme: {
     extend: {},
