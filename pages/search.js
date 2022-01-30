@@ -50,7 +50,7 @@ const search = ({ searchResults }) => {
           </div>
         </section>
 
-        <section className="hidden xl:inline-flex xl:min-w-[600px] ">
+        <section className="hidden xl:inline-flex xl:min-w-[550px] ">
           <Map searchResults={searchResults} />
         </section>
       </main>
